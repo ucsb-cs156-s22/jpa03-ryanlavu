@@ -1,8 +1,14 @@
 # demo-spring-react-example-v2: dsre-v2
 
+Repo link is here:
+* <https://github.com/ucsb-cs156-s22/jpa03-ryanlavu>
+
 Storybook is here:
 * Production: <https://ucsb-cs156-s22.github.io/jpa03-ryanlavu-docs/>
 * QA:  <https://ucsb-cs156-s22.github.io/jpa03-ryanlavu-docs-qa/>
+
+Heroku link is here:
+* <https://jpa03-ryanvu.herokuapp.com/>
 
 The GitHub actions script to deploy the Storybook to QA requires some configuration; see [docs/github-actions.md](docs/github-actions.md) for details.
 
